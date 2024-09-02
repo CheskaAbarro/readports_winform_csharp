@@ -25,7 +25,7 @@
      }
  }
 ```
-##Output
+# Output
 ![image](https://github.com/user-attachments/assets/cead95d9-4b7e-497b-8739-10fdc563c86b)
 
 **Tip: Read all the comments and try to debug line by line in order to study it better.**
