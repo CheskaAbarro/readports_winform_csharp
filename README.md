@@ -32,3 +32,7 @@
 
 ### If you encounter an error, please leave a comment of your error and I will try to answer as soon as possible. 
 ### Happy learning!
+
+
+Source:
+https://stackoverflow.com/questions/5445847/list-available-com-ports
